@@ -1,0 +1,9 @@
+Nama	: Nadhira Salsabila Trianitasari
+NIM	: 2405551022
+Usn	: nadhira.ssalsa
+
+ket:
+
+testing -> Tugas Mengurutkan Bilangan
+testing2 -> Permainan Kata Unik
+testing3 -> Bilangan Prima
